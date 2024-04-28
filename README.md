@@ -1,7 +1,7 @@
 # Face_Recognition
 
 - The rquired installation need to be performed in google colab.
-  -installations required
+  - installations required
   pip install opencv-python
 
 - Before running the .py file, we need to upload the contents of the 'Uploads' folder in the Files section of google colab.
