@@ -11,7 +11,7 @@ This repository contains Python scripts for face detection and recognition using
 - Successfully identified known faces in group images and unknown images using face recognition techniques.
 - Showcased versatility and adaptability in addressing various face detection scenarios.
 - Identified potential areas for further optimization and improvement in performance, particularly in computational efficiency.
-- Concluded that the project exhibits proficiency in computer vision fundamentals and provides effective solutions for face detection tasks while suggesting avenues for future enhancements.
+Concluded that the project exhibits proficiency in computer vision fundamentals and provides effective solutions for face detection tasks while suggesting avenues for future enhancements.
 
 # Instructions to Run the Code
 Follow these instructions to run the code:
