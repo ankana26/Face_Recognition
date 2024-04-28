@@ -7,6 +7,9 @@ This repository contains Python scripts for face detection and recognition using
 - Detecting Faces in Videos: There are scripts to detect faces in videos. One script processes a single video, while another script processes a group of videos and saves the output videos with detected faces in a specified folder.
 - Recognizing Faces: The repository includes scripts for recognizing faces using Fisher Face Recognition. These scripts load known face images, train a recognition model, and then recognize faces in unknown images.
 
+#Instructions to Run the Code
+Follow these instructions to run the code:
+
 - The rquired installation need to be performed in google colab.
   - installations required
   pip install opencv-python
