@@ -3,9 +3,15 @@
 Face Detection and Recognition System
 This repository contains Python scripts for face detection and recognition using Haar cascades and OpenCV. The scripts are designed to perform various tasks related to face detection and recognition, including:
 
-- Detecting Faces in Images: The repository provides scripts to detect faces in images using Haar cascades. Different scripts are available for detecting faces with various functionalities, such as detecting faces in a group image, individual faces, or faces with age and gender estimation.
-- Detecting Faces in Videos: There are scripts to detect faces in videos. One script processes a single video, while another script processes a group of videos and saves the output videos with detected faces in a specified folder.
-- Recognizing Faces: The repository includes scripts for recognizing faces using Fisher Face Recognition. These scripts load known face images, train a recognition model, and then recognize faces in unknown images.
+- Utilized pre-trained Haar cascades for accurate face detection, distinguishing between frontal and profile faces.
+- Implemented grayscale conversion for computational simplicity while retaining essential information.
+- Integrated age and gender detection algorithms alongside face recognition for comprehensive analysis.
+- Demonstrated real-time video processing capabilities for face detection and demographic analysis.
+- Achieved practical implementations of face detection in videos and batch processing for scalability.
+- Successfully identified known faces in group images and unknown images using face recognition techniques.
+- Showcased versatility and adaptability in addressing various face detection scenarios.
+- Identified potential areas for further optimization and improvement in performance, particularly in computational efficiency.
+- Concluded that the project exhibits proficiency in computer vision fundamentals and provides effective solutions for face detection tasks while suggesting avenues for future enhancements.
 
 # Instructions to Run the Code
 Follow these instructions to run the code:
