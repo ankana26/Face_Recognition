@@ -17,6 +17,6 @@ Follow these instructions to run the code:
 - Before running the .py file, we need to upload the contents of the 'Uploads' folder in the Files section of google colab.
   - Uploads:
   https://drive.google.com/file/d/1JLQ8FwVnHV9Ag4L45EudXsU00K50o9nJ/view?usp=sharing
-
-- ipynb:
-https://colab.research.google.com/drive/1gf4MfZEirmu9zANwu96SjitjyGuG0kJ6?usp=sharing
+- Due to the large size of ".ipynb" file and "Uploads" folder , we are not able to upload on github, So here are "colab" and "drive" links respctively:
+  - ipynb:
+  https://colab.research.google.com/drive/1gf4MfZEirmu9zANwu96SjitjyGuG0kJ6?usp=sharing
